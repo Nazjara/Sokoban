@@ -5,6 +5,7 @@ Sokoban (倉庫番 sōkoban, warehouse keeper) is a type of transport puzzle, in
 Learn more: https://en.wikipedia.org/wiki/Sokoban
 
 Install order:
+
 1.Build jar file using Maven through command "mvn package"
 
 2.Open jar file in directory /target/Sokoban-1.0.jar
