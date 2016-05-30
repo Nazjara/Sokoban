@@ -6,7 +6,9 @@ Learn more: https://en.wikipedia.org/wiki/Sokoban
 
 Install order:
 1.Build jar file using Maven through command "mvn package"
+
 2.Open jar file in directory /target/Sokoban-1.0.jar
+
 3.Evolve your brain!
 
 In this game version 60 levels are implemented.
