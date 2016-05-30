@@ -15,7 +15,11 @@ Install order:
 In this game version 60 levels are implemented.
 
 Сontrol keys:
+
 Arrows - move the player;
+
 N - go to the next level;
+
 P - go to the previous level;
+
 R - reset current level.
